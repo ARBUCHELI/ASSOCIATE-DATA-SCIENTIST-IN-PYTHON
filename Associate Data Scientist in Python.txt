@@ -1,0 +1,14 @@
+I# ASSOCIATE DATA SCIENTIST IN PYTHON
+------------------------------------
+
+* Course - Introduction to Python
+
+* Course - Intermediate Python
+
+* Project - Investigating Netflix Movies
+
+* Course - Introduction to Functions in Python 
+
+* Course - Python Toolbox
+
+* Skill Assessment - Python Programming
