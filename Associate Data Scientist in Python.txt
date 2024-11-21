@@ -1,4 +1,4 @@
-I# ASSOCIATE DATA SCIENTIST IN PYTHON
+# ASSOCIATE DATA SCIENTIST IN PYTHON
 ------------------------------------
 
 * Course - Introduction to Python
@@ -12,3 +12,9 @@ I# ASSOCIATE DATA SCIENTIST IN PYTHON
 * Course - Python Toolbox
 
 * Skill Assessment - Python Programming
+
+* Course - Data Manipulation with Pandas
+
+* Exploring NYC Public School Test Result Scores
+
+* Joining Data with pandas
