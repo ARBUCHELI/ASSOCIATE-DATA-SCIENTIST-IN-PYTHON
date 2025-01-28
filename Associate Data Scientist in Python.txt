@@ -18,3 +18,5 @@
 * Exploring NYC Public School Test Result Scores
 
 * Joining Data with pandas
+
+* Introduction to Statistics in Python
